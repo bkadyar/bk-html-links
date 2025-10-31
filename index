@@ -2,6 +2,64 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <title>Brahma Kumaris – Resource Links</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      background: #ffffff;
+      color: #333333;
+      font-family: 'DM Sans', sans-serif;
+      margin: 0;
+      padding: 25px;
+    }
+    h3 {
+      font-family: 'Raleway', sans-serif;
+      font-size: 12px;
+      margin-bottom: 8px;
+      border-bottom: 1px solid #CBA135;
+      color: #333333;
+    }
+    a {
+      color: #333333;
+      text-decoration: none;
+    }
+    a:hover {
+      color: #CBA135;
+    }
+    svg.play {
+      width: 10px;
+      height: 10px;
+      vertical-align: middle;
+      margin-right: 3px;
+    }
+    .container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+      max-width: 900px;
+      margin: auto;
+      font-size: 11px;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <!-- Gold play icon -->
+  <svg style="display:none;">
+    <symbol id="gold-play" viewBox="0 0 24 24">
+      <polygon fill="#CBA135" points="8,5 19,12 8,19" />
+    </symbol>
+  </svg>
+
+  <div class="container">
+    <!-- Your link columns go here -->
+    <!-- Paste the HTML grid you already created -->
+  
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Brahma Kumaris – Resource Links</title>
   <style>
@@ -100,5 +158,8 @@
     </div>
   </div>
 
+</body>
+</html>
+</div>
 </body>
 </html>
